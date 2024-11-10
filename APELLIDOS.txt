@@ -3,7 +3,4 @@ ARONES
 MEZA
 MARECOS
 SOTO
-<<<<<<< HEAD
-=======
 CABELLO 
->>>>>>> 21100744_Rodrigo
