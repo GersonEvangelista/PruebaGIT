@@ -2,8 +2,6 @@ EVANGELISTA
 MEZA
 MARECOS
 SOTO
-<<<<<<< HEAD
-=======
 ARONES
->>>>>>> 22200136_Nilmar
+
 
