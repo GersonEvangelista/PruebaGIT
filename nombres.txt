@@ -1,4 +1,9 @@
 <<<<<<< HEAD
 =======
+<<<<<<< HEAD
 NILMAR
 >>>>>>> 22200136_Nilmar
+=======
+AARON STEVE SOTO LOPEZ
+>>>>>>> 22101508_Aaron
+>>>>>>> 32007de769edd0a2a2bf7e9cf2d7313971a4d4ef
