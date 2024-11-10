@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 NILMAR
@@ -15,3 +16,10 @@ Meza Frayder
 =======
 >>>>>>> 21100744_Rodrigo
 >>>>>>> 8d2b0ed8a2bd76cedcc89970c6bcfa4b2ecf8bc8
+=======
+AARON STEVE SOTO LOPEZ
+22101508_Aaron
+Meza Frayder
+21100744_Rodrigo
+>>>>>>> e36c1b61c18b9ac95c45ef6fa0fd92ba0b1f2ee3
+Nilmar
